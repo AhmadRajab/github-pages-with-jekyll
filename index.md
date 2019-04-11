@@ -4,4 +4,4 @@
 
 
 ##The AI Jungle awaits
-theme: jekyll-theme-minima
+theme: theme-minima
