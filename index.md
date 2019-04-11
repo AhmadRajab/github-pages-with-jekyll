@@ -4,4 +4,4 @@
 
 
 ##The AI Jungle awaits
-theme: theme-minima
+theme: minima
