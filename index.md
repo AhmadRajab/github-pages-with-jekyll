@@ -4,4 +4,4 @@
 
 
 ##The AI Jungle awaits
-@import "minima";
+theme: jekyll-theme-minima
